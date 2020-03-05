@@ -4,6 +4,12 @@
 
 This Policy Template will provide an overview for the various Regulatory Compliance controls and compliance scores. The policy will generate an email notification.
 
+##API Referenced
+
+This policy uses the Microsoft Regulatory Compliance list option as shown on the Azure Security Center
+
+https://docs.microsoft.com/en-us/rest/api/securitycenter/regulatorycomplianceassessments/list
+
 ## Input Parameters
 
 This policy has the following input parameters required when launching the policy.
@@ -27,3 +33,4 @@ Provider tag value to match this policy: `azure_rm`
 ### Cost
 
 This Policy Template does not launch any instances, and so does not incur any cloud costs.
+
