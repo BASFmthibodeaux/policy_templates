@@ -4,7 +4,7 @@
 
 This Policy Template will provide an overview for the various Regulatory Compliance controls and compliance scores. The policy will generate an email notification.
 
-##API Referenced
+## API Referenced
 
 This policy uses the Microsoft Regulatory Compliance list option as shown on the Azure Security Center
 
